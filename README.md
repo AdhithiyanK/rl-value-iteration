@@ -28,8 +28,8 @@ P = env.env.P
 ```
 
 ## VALUE ITERATION FUNCTION
-#### Name: Nandhini S
-#### Register Number: 212222220028
+#### Name: ADHITHIYAM K
+#### Register Number: 212222230006
 ```python
 def value_iteration(P, gamma=1.0, theta=1e-10):
   V = np.zeros(len(P), dtype=np.float64)
